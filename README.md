@@ -1,7 +1,7 @@
 # Bendu CLI Tool
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-green)](https://github.com/PyCQA/pylint)
 [![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-397/)
-![status](https://github.com/github/docs/actions/workflows/release.yml/badge.svg)
+![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
 
 
 ##### Table of Contents  
