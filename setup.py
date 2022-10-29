@@ -5,11 +5,11 @@ with open("README.md", 'r') as f:
     long_description = f.read()
 
 setup(
-    name = "builder",
-    version = "0.0.1",
-    author = "Theodoros Mavroeidakos",
+    name = "bendu",
+    version = "1.0.0",
+    author = "Thodoris Mavroeidakos",
     description = ("A tool automating operations with docker containers"),
-    py_modules=["builder"],
+    py_modules=["bendu"],
     python_requires='>=3.0',
     install_requires=['docker', 'Click', 'requests'],
     classifiers=[
@@ -19,11 +19,11 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        builder=builder:cli
+        bendu=bendu:cli
     ''',
 
     project_urls={
-    'Docker Project': 'https://github.com/tmavroeid/docker-project',
+    'Docker Project': 'https://github.com/tmavroeid/bendu',
 
 },
 )

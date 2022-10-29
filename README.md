@@ -8,7 +8,7 @@
   - [Prerequisites](#prerequisites)  
 - [Usage](#usage)
 - [Testing](#testing)
-- [Examples of use](#examples-of-use)
+- [Help](#help)
 - [Technologies](#technologies)
 
 ## Introduction
@@ -54,11 +54,8 @@ For older versions than Ubuntu 16.04 you can use the instructions in the followi
 
 The tool is equipped with five commands: *build*, *deploy*, *validate*, *stats* and *logging* as presented below:
 
-  ![truffle test](images/builder-help.png)
-
-Finally, invoke one of the tool's commands:
 ```
-python3 builder.py [build, deploy, validate, stats, logging] --help
+python3 bendu.py [build, deploy, validate, stats, logging] --help
 ```
 
 
@@ -92,8 +89,8 @@ pip3 install --editable .
 5. Finally, execute the *build* command to build the image according the instructions that are defined in a Dockerfile:
 
 ```
-builder --help
-builder build -d ./ -t "alpine_hello_world:1"
+bendu --help
+bendu build -d ./ -t "alpine_hello_world:1"
 ```
 
 6. Exit virtual environment by invoking:
@@ -103,27 +100,9 @@ deactivate
 ```
 
 
-## Examples of use
+## Help
 
-
-Each one of these commands has each one functionality which can be over-viewed by invoking each command followed by **--hep**. The following screen-shots indicate the usage of each command.
-
-Build a Container Image:
-  ![Build a Container Image:](images/builder-build.png)
-
-Deploy a Number of Containers:
-  ![Deploy a Number of Containers:](images/builder-deploy.png)
-
-  ![Deploy a Number of Containers:](images/builder-deploy-res.png)
-
-Validate the Operation of Each Container:
-  ![Validate the Operation:](images/builder-validate.png)
-
-Monitor the Resource Usage of Each Container:
-  ![Monitor the Resource Usage:](images/builder-stats.png)
-
-Consolidate Logs of a Number of Containers Into a Local File by providing the filename:
-  ![Consolidate Logs:](images/builder-logging.png)
+Each one of these commands has each one functionality which can be over-viewed by invoking each command followed by **--hep**.
 
 ## Technologies
 * [Docker](https://www.docker.com/)
