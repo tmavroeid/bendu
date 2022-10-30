@@ -7,7 +7,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name = "bendu",
-    version = "1.0.1",
+    version = "1.0.2",
     author = "Thodoris Mavroeidakos",
     description = ("A tool automating operations with docker containers"),
     long_description=long_description,
