@@ -7,6 +7,8 @@
 [![Github vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)
 [![Github release date](https://img.shields.io/github/release-date/tmavroeid/bendu)](https://img.shields.io/github/release-date/tmavroeid/bendu)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tmavroeid)
+
 ##### Table of Contents  
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)  
@@ -95,7 +97,7 @@ pip3 install --editable .
 
 ```
 bendu --help
-bendu build -d ./ -t "alpine_hello_world:1"
+bendu build -d ./data -t "alpine_hello_world:1"
 ```
 
 6. Exit virtual environment by invoking:
