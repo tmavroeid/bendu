@@ -1,9 +1,9 @@
-# Bendu CLI Tool
+# Bendu
+                                                   
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-green)](https://github.com/PyCQA/pylint)
 [![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-397/)
 ![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
 [![Github vulnerabilities](https://img.shields.io/github/license/tmavroeid/bendu)](https://img.shields.io/github/license/tmavroeid/bendu)
-
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/tmavroeid/bendu)
 [![Github vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)
 [![Github release date](https://img.shields.io/github/release-date/tmavroeid/bendu)](https://img.shields.io/github/release-date/tmavroeid/bendu)
