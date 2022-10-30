@@ -1,7 +1,9 @@
-from setuptools import setup
+from setuptools import setup, find_packages
+import pathlib
 
-with open("README.md", 'r') as f:
-    long_description = f.read()
+here = pathlib.Path(__file__).parent.resolve()
+
+long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name = "bendu",
@@ -9,16 +11,18 @@ setup(
     author = "Thodoris Mavroeidakos",
     description = ("A tool automating operations with docker containers"),
     py_modules=["bendu"],
-    python_requires='>=3.0',
-    install_requires=['docker', 'Click', 'requests'],
+    install_requires=['docker', 'click', 'requests'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Development Status :: Alpha",
         "Topic :: Docker Utilities",
     ],
+    #package_dir={"": "src"},
+    #packages=find_packages(where="src"),
+    python_requires=">=3.7, <4",
     entry_points='''
         [console_scripts]
-        bendu=bendu:cli
+        bendu=bendu:bendu
     ''',
 
     project_urls={
