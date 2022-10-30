@@ -2,7 +2,9 @@
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-green)](https://github.com/PyCQA/pylint)
 [![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-397/)
 ![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
-
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+![release version](https:///github/v/release/tmavroeid/bendu?display_name=tag)
+	
 
 ##### Table of Contents  
 - [Introduction](#introduction)
