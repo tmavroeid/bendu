@@ -9,8 +9,6 @@
 [![Github release date](https://img.shields.io/github/release-date/tmavroeid/bendu)](https://img.shields.io/github/release-date/tmavroeid/bendu)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tmavroeid.bendu)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tmavroeid)
-
 ##### Table of Contents  
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)  
@@ -117,3 +115,5 @@ Each one of these commands has each one functionality which can be over-viewed b
 * [Docker](https://www.docker.com/)
 * [Click](https://click.palletsprojects.com/en/7.x/)
 * [Python SDK for Docker](https://docker-py.readthedocs.io/en/stable/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tmavroeid)
