@@ -12,7 +12,6 @@
   ![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
   [![Github vulnerabilities](https://img.shields.io/github/license/tmavroeid/bendu)](https://img.shields.io/github/license/tmavroeid/bendu)
   ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/tmavroeid/bendu)
-  [![Github vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=tmavroeid.bendu)
   
 </div>                                              
