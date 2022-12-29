@@ -1,7 +1,7 @@
 # bendu
 
 <h1 align="center">
-  <img width="400" src="https://raw.githubusercontent.com/tmavroeid/bendu/feat/add-logo/img/bendu.png" alt="luds3 header">
+  <img width="400" src="https://raw.githubusercontent.com/tmavroeid/bendu/master/img/bendu.png" alt="luds3 header">
   <br/>
 </hr>
 
