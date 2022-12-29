@@ -1,13 +1,21 @@
-# Bendu
-                                                   
-[![linting: pylint](https://img.shields.io/badge/linting-pylint-green)](https://github.com/PyCQA/pylint)
-[![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-397/)
-![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
-[![Github vulnerabilities](https://img.shields.io/github/license/tmavroeid/bendu)](https://img.shields.io/github/license/tmavroeid/bendu)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/tmavroeid/bendu)
-[![Github vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)
-[![Github release date](https://img.shields.io/github/release-date/tmavroeid/bendu)](https://img.shields.io/github/release-date/tmavroeid/bendu)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=tmavroeid.bendu)
+# bendu
+
+<h1 align="center">
+  <img width="400" src="https://raw.githubusercontent.com/tmavroeid/bendu/feat/add-logo/img/bendu.png" alt="luds3 header">
+  <br/>
+</hr>
+
+<div align="center">
+
+  [![linting: pylint](https://img.shields.io/badge/linting-pylint-green)](https://github.com/PyCQA/pylint)
+  [![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-397/)
+  ![release passing](https://github.com/tmavroeid/bendu/actions/workflows/release.yml/badge.svg)
+  [![Github vulnerabilities](https://img.shields.io/github/license/tmavroeid/bendu)](https://img.shields.io/github/license/tmavroeid/bendu)
+  ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/tmavroeid/bendu)
+  [![Github vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)](https://img.shields.io/snyk/vulnerabilities/github/tmavroeid/bendu)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tmavroeid.bendu)
+  
+</div>                                              
 
 ##### Table of Contents  
 - [Introduction](#introduction)
