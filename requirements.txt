@@ -4,3 +4,4 @@ requests
 random
 json
 tornado
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
